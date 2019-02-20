@@ -1,0 +1,54 @@
+Hello and welcome to shuttle bus training video for A2A's driver. 
+In this video, we will show you about the customer experience while using our service 
+and the introduction of how to use Shuttle Bus Application. 
+
+First, when new driver joins A2A, Bus manager tells him to install the Shuttle Bus Application. 
+
+In order to use this application, driver has to have an account with e-mail and password that 
+Bus Manager created for them. 
+After getting his account, the driver has to login with email and password that he just received 
+while connecting to internet. 
+
+After logging in, in order to get the latest schedule, the driver has to click on “Sync to Latest” that shown on screen. 
+
+Driving schedule and information are shown in the app as well as in the driver’s email. 
+
+On the home screen, he can see the schedule, departure date & time, amount of the seat and amount of customer. 
+
+When he taps on “Check Passenger”, the driver can see “Scan QR Code” & “ List of Passengers”. 
+
+Before going to the pick up location, the driver has to:
+1. Take vkirirom logo and put in front of the bus. 
+2. Check the amount of money that prepared for any trouble. 
+3. Check the gasoline 
+4. Check the seatbelt 
+5. Check the break, engine, Bus light and other important functions 
+6. Check the mosquito racket
+7. Check the hygiene in the bus 
+8. Check the amount of money in the WiFi system 
+9. Check the cold water bottle and cold towel
+If any problems, driver can contact to bus manager. 
+
+WiFi & Video 
+1. Check the WiFi modems and test whether it is working or not 
+2. Check the movie website 
+
+Before departure, driver have to help customer s carrying their luggage. 
+
+15minutes before departure, 
+Driver need to check all customers QR code that they got from website or email (even they already pick up their stuff. ) 
+
+After scanning, there will be a check mark in that passenger’s name. After receiving all check marks, the driver can 
+depart. 
+I some passengers haven’t come yet, driver can call to them by their numbers that shown in the application. 
+
+Before leaving, driver have to give cold water and towel to customers. And then driver have to tell customers to download
+ “vKclub” Application that include many services such as movie website as well. 
+
+While driving, 
+The driver have to maintain the speed, asking customers about toilet break, air conditioning coldness. 
+
+When arriving, driver or security has to take customers luggage to their rooms. They have to say thank you for riding 
+our shuttle bus. 
+
+Thank you for watching and have a safety ride.
